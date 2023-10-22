@@ -1,0 +1,41 @@
+{
+  "name": "js-ds-interview",
+  "version": "1.0.0",
+  "description": "This repository contains various algorithms and data structures implemented in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest test.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Data Structures",
+    "Technical Assessment",
+    "Coding Exercises",
+    "Interview Preparation",
+    "Problem-Solving",
+    "Algorithm",
+    "GitHub Repository",
+    "Programming Challenges",
+    "Front-end Development",
+    "Full-stack Development",
+    "Software Engineering",
+    "Tech Companies",
+    "Evaluation",
+    "Interview Questions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro-shubham-jain/JS-DS-Interview.git"
+  },
+  "author": "Shubham Jain",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/pro-shubham-jain/JS-DS-Interview/issues"
+  },
+  "homepage": "https://github.com/pro-shubham-jain/JS-DS-Interview#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
