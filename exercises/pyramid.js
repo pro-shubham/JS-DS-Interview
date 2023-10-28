@@ -5,7 +5,7 @@ function pyramid(input) {
       let level = '';
       for (let col = 0; col < calCol; col++) {
         if (midpoint - row <= col && midpoint + row >= col) {
-          level += '*';
+          level += '#';
         } else {
           level += ' ';
         }

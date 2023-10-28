@@ -60,5 +60,5 @@ while (left.length && right.length) {
 return [...results, ...left, ...right];
 }
 
-module.exports = { bubbleSort, selectionSort, mergeSort };
+module.exports = { bubbleSort, selectionSort, mergeSort, merge };
   

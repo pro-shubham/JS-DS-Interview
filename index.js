@@ -79,6 +79,7 @@ function displayMenu() {
     console.log(`${count} : ${exampleList[i]}`);
   }
 }
+
 function getUserChoice() {
   return new Promise((resolve, reject) => {
     displayMenu(); // Display the menu first

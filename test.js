@@ -1,2 +1,25 @@
+
+//const fizzbuzz = require('./testCases/test_fizzbuzz'); //run test seprately 
+//const setps = require('./testCases/test_setps'); //run test seprately 
 const anagram = require('./testCases/test_anagrams');
-anagram;
+const bst = require('./testCases/test_bst');
+const capitalize = require('./testCases/test_capitalize');
+const chunk = require('./testCases/test_chunk');
+const circular = require('./testCases/test_circular');
+const matrix = require('./testCases/test_matrix');
+const maxchar = require('./testCases/test_maxchar');
+const palindrome = require('./testCases/test_palindrome');
+const pyramid = require('./testCases/test_pyramid');
+const fromLast = require('./testCases/test_fromLast');
+const stack = require('./testCases/test_stack');
+const tree = require('./testCases/test_tree');
+const vowels = require('./testCases/test_vowels');
+const fib = require('./testCases/test_fib');
+const linklist = require('./testCases/test_linklist');
+const qfroms = require('./testCases/test_qfroms');
+const queue = require('./testCases/test_queue');
+const reversint_revstring = require('./testCases/test_reversint_revstring');
+const validate = require('./testCases/test_validate');
+const sorting = require('./testCases/test_sorting');
+const weave = require('./testCases/test_weave');
+const levelwidth = require('./testCases/test_levelwidth');

@@ -29,4 +29,5 @@ function fibonacciCache(input, memo = {}) {
 
 console.log(fibonacciCache(10));
 
+module.exports = fibonacciCache;
 

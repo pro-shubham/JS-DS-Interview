@@ -18,8 +18,10 @@ function maxChar(input) {
             maxChar = char;
         }
     }
+
+    //`{ ${maxChar} : ${maxCount} }`
   
-    return `{ ${maxChar} : ${maxCount} }`; 
+    return maxChar; 
 }
 
 module.exports = maxChar;
