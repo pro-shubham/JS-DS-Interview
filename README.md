@@ -6,26 +6,64 @@
 <h2>Table of Contents</h2>
 
 <ul>
-    <li><a href="#anagrams">Anagrams</a></li>
-    <li><a href="#array-chunking">Array Chunking</a></li>
-    <li><a href="#string-capitalize">String Capitalize</a></li>
-    <li><a href="#character-count">Character Count</a></li>
-    <li><a href="#curring-function">Curring Function</a></li>
-    <li><a href="#even-and-odd-functions">Even and Odd Functions</a></li>
-    <li><a href="#factorial">Factorial</a></li>
-    <li><a href="#count-vowels">Count Vowels</a></li>
-    <li><a href="#fizzbuzz">FizzBuzz</a></li>
-    <li><a href="#max-character">Max Character</a></li>
-    <li><a href="#spherical-matrix">Spherical Matrix</a></li>
-    <li><a href="#merge-intervals">Merge Intervals</a></li>
-    <li><a href="#palindrome">Palindrome</a></li>
-    <li><a href="#is-prime-number">Is Prime Number</a></li>
-    <li><a href="#pyramid-pattern">Pyramid Pattern</a></li>
-    <li><a href="#reverse-string-and-integer">Reverse String and Integer</a></li>
-    <li><a href="#rock-paper-scissors">Rock-Paper-Scissors</a></li>
-    <li><a href="#sorting-of-array">Sorting of Array</a></li>
-    <li><a href="#print-steps">Print Steps</a></li>
+  <li><a href="#anagrams">Anagrams</a></li>
+  <li><a href="#array-chunking">Array Chunking</a></li>
+  <li><a href="#string-capitalize">String Capitalize</a></li>
+  <li><a href="#character-count">Character Count</a></li>
+  <li><a href="#curning-function">Curning Function</a></li>
+  <li><a href="#even-and-odd-functions">Even and Odd Functions</a></li>
+  <li><a href="#factorial">Factorial</a></li>
+  <li><a href="#count-vowels">Count Vowels</a></li>
+  <li><a href="#fizzbuzz">FizzBuzz</a></li>
+  <li><a href="#max-character">Max Character</a></li>
+  <li><a href="#spherical-matrix">Spherical Matrix</a></li>
+  <li><a href="#merge-intervals">Merge Intervals</a></li>
+  <li><a href="#palindrome">Palindrome</a></li>
+  <li><a href="#is-prime-number">Is Prime Number</a></li>
+  <li><a href="#pyramid-pattern">Pyramid Pattern</a></li>
+  <li><a href="#reverse-string-and-integer">Reverse String and Integer</a></li>
+  <li><a href="#rock-paper-scissors">Rock-Paper-Scissors</a></li>
+  <li><a href="#sorting-of-array">Sorting of Array</a></li>
+  <li><a href="#print-steps">Print Steps</a></li>
+  <li><a href="#insert-and-contain-in-binary-search-tree">Insert and contain in the binary search tree</a></li>
+  <li><a href="#queue-of-list">Queue of List</a></li>
+  <li><a href="#weave-to-queue-list">Weave to queue list</a></li>
+  <li><a href="#breadth-first-traversal">Breadth-First Traversal</a></li>
+  <li><a href="#depth-first-traversal">Depth-First Traversal</a></li>
+  <li><a href="#is-bst-is-validate">Is BST is Validate</a></li>
+  <li><a href="#linked-list-size">Linked List Size</a></li>
+  <li><a href="#is-circular-linked-list">Is Circular Linked List</a></li>
+  <li><a href="#level-widths">Level Widths</a></li>
+  <li><a href="#the-nth-node-from-the-end">The nth node from the end</a></li>
+  <li><a href="#stack-queue">Stack Queue</a></li>
 </ul>
+
+<ol>
+  <li>Clone the repository:</li>
+  <pre><code>git clone https://github.com/pro-shubham-jain/JS-DS-Interview.git</code></pre>
+
+  <li>Navigate to the project directory:</li>
+  <pre><code>cd JS-DS-Interview</code></pre>
+
+  <li>Install dependencies using npm or yarn:</li>
+  <pre><code>npm install</code></pre>
+  <pre><code>yarn install</code></pre>
+
+  <li>Available Scripts:</li>
+  <ul>
+    <li>Start the project:</li>
+    <pre><code>npm start</code></pre>
+    <pre><code>yarn start</code></pre>
+
+    <li>Start the project in development mode (with nodemon):</li>
+    <pre><code>npm run dev</code></pre>
+    <pre><code>yarn dev</code></pre>
+
+    <li>Run tests (assuming you have Jest installed):</li>
+    <pre><code>npm test</code></pre>
+    <pre><code>yarn test</code></pre>
+  </ul>
+</ol>
 
 <h1>Importance of Algorithms and Data Structures</h1>
 
