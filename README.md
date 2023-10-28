@@ -1,4 +1,3 @@
-
 <h1>JavaScript Data Structures Exercises</h1>
 
 <p>This repository contains various algorithms and data structures implemented in JavaScript. Below is a list of functions and their descriptions:</p>
@@ -49,20 +48,17 @@
   <pre><code>npm install</code></pre>
   <pre><code>yarn install</code></pre>
 
-  <li>Available Scripts:</li>
-  <ul>
-    <li>Start the project:</li>
+  <li>Start the project:</li>
     <pre><code>npm start</code></pre>
     <pre><code>yarn start</code></pre>
 
-    <li>Start the project in development mode (with nodemon):</li>
-    <pre><code>npm run dev</code></pre>
-    <pre><code>yarn dev</code></pre>
+<li>Start the project in development mode (with nodemon):</li>
+<pre><code>npm run dev</code></pre>
+<pre><code>yarn dev</code></pre>
 
-    <li>Run tests (assuming you have Jest installed):</li>
-    <pre><code>npm test</code></pre>
-    <pre><code>yarn test</code></pre>
-  </ul>
+<li>Run tests (assuming you have Jest installed):</li>
+<pre><code>npm test</code></pre>
+<pre><code>yarn test</code></pre>
 </ol>
 
 <h1>Importance of Algorithms and Data Structures</h1>
