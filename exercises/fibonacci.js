@@ -26,8 +26,6 @@ function fibonacciCache(input, memo = {}) {
     memo[input] = fibonacciCache(input - 1, memo) + fibonacciCache(input - 2, memo);
     return memo[input];
 }
-
 console.log(fibonacciCache(10));
-
 module.exports = fibonacciCache;
 
